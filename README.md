@@ -39,7 +39,7 @@ I am a passionate data analyst, web developer & content creator, and project man
 ## 🌟 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ansarafsar)  
 - 💻 [GitHub](https://github.com/AnsarAfsar)  
-- <!--✍️ [Portfolio Website](https://your-portfolio.com) *(optional)*  
+
 
 ---
 
@@ -49,7 +49,7 @@ I am a passionate data analyst, web developer & content creator, and project man
 - 📚 Always up for a good read—be it tech blogs or thrillers!
 
 ---
-
+ <!--✍️ [Portfolio Website](https://your-portfolio.com) *(optional)*  --!>
 
 <!--
 **Ansarafsar/Ansarafsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
