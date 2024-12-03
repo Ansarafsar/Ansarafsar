@@ -39,7 +39,7 @@ I am a passionate data analyst, web developer, and project manager with a knack 
 ## 🌟 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ansarafsar)  
 - 💻 [GitHub](https://github.com/AnsarAfsar)  
-- ✍️ [Portfolio Website](https://your-portfolio.com) *(optional)*  
+- <!--✍️ [Portfolio Website](https://your-portfolio.com) *(optional)*  
 
 ---
 
