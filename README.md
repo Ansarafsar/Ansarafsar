@@ -1,6 +1,3 @@
-## Hi there 👋
-Sure, Ansar! I'll create a GitHub Profile README for you based on your skills, achievements, and interests. Here's a draft:
-
 ---
 
 # Hi there, I'm Ansar Afsar! 👋
