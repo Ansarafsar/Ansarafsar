@@ -3,7 +3,7 @@
 # Hi there, I'm Ansar Afsar! 👋
 
 🌟 **Welcome to my GitHub profile!**  
-I am a passionate data analyst, web developer content creator, and project manager with a knack for solving complex problems using technology. My work is focused on delivering impactful solutions in data science and blockchain development.
+I am a passionate data analyst, web developer & content creator, and project manager with a knack for solving complex problems using technology. My work is focused on delivering impactful solutions in data science and blockchain development.
 
 ---
 
