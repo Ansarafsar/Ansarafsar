@@ -8,19 +8,19 @@ I am a passionate data analyst, web developer, and project manager with a knack 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently exploring **graduate internship roles** and enhancing my expertise in **data analytics** and **blockchain-based projects**.  
+- 🔭 I’m currently exploring **Full Time Employment Roles** and enhancing my expertise in **data analytics**, **Web Content Creation** and **blockchain-based projects**.  
 - 🌱 Actively learning **AlgoKit** for blockchain development on **Algorand**.  
-- 🎓 Certified in **Google Analytics**, **IBM Data Analyst**, and **Web Development** (Coursera).  
+- 🎓 Certified in **Google Analytics**, **IBM Data Analyst**, **Web Development** and **Microsoft Business Analytics**
 - 📫 How to reach me: [Email](mailto:ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar)
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript
+- **Languages**: Python, R, Java, JavaScript
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Web Development**: HTML, CSS, JavaScript, React  
 - **Blockchain**: Algorand, AlgoKit  
-- **Other Tools**: Git, SQL, Tableau  
+- **Other Tools**: Git, SQL, Tableau, Power BI
 
 ---
 
