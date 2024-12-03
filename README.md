@@ -11,7 +11,7 @@ I am a passionate data analyst, web developer, and project manager with a knack 
 - 🔭 I’m currently exploring **graduate internship roles** and enhancing my expertise in **data analytics** and **blockchain-based projects**.  
 - 🌱 Actively learning **AlgoKit** for blockchain development on **Algorand**.  
 - 🎓 Certified in **Google Analytics**, **IBM Data Analyst**, and **Web Development** (Coursera).  
-- 📫 How to reach me: [Email](mailto:ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar)
+- 📫 How to reach me: [Email](ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar)
 
 ---
 
