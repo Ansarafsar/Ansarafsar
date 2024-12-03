@@ -17,8 +17,7 @@ I am a passionate data analyst, web developer, and project manager with a knack 
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript
-- **Data Tools**: Pandas, NumPy !(https://img.shields.io/badge/Library-NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white)
-, Matplotlib, Seaborn, Scikit-learn  
+- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Web Development**: HTML, CSS, JavaScript, React  
 - **Blockchain**: Algorand, AlgoKit  
 - **Other Tools**: Git, SQL, Tableau  
