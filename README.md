@@ -3,12 +3,12 @@
 # Hi there, I'm Ansar Afsar! 👋
 
 🌟 **Welcome to my GitHub profile!**  
-I am a passionate data analyst, web developer & content creator, and project manager with a knack for solving complex problems using technology. My work is focused on delivering impactful solutions in data science and blockchain development.
+I am a passionate data analyst, web developer & content creator,a big AI ML enthusiast and project manager with a knack for solving complex problems using technology. My work is focused on delivering impactful solutions in data science and blockchain development.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently exploring **Full Time Employment Roles** and enhancing my expertise in **data analytics**, **Web Content Creation** and **blockchain-based projects**.  
+- 🔭 I’m currently exploring **Full Time Employment Roles** and enhancing my expertise in **AI ML projects**, **data analytics**, **Web Content Creation**.
 - 🌱 Actively learning **AlgoKit** for blockchain development on **Algorand**.  
 - 🎓 Certified in **Google Analytics**, **IBM Data Analyst**, **Web Development** and **Microsoft Business Analytics**
 - 📫 How to reach me: [Email](mailto:ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar)
