@@ -1,52 +1,68 @@
----
-
 # Hi there, I'm Ansar Afsar! 👋
 
 🌟 **Welcome to my GitHub profile!**  
-I am a passionate data analyst, web developer & content creator,a big AI ML enthusiast and project manager with a knack for solving complex problems using technology. My work is focused on delivering impactful solutions in data science and blockchain development.
+I’m a Master’s student in Computer Science (Government Arts College, Salem, ‘25), fueled by a passion for AI, machine learning, data analytics, and blockchain. I love building impactful solutions—whether it’s predictive dashboards, AI-driven chatbots, or decentralized systems—that turn complex problems into clear wins. My toolbox? Python, PyTorch, and a knack for making tech work for people.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently exploring **Full Time Employment Roles** and enhancing my expertise in **AI ML projects**, **data analytics**, **Web Content Creation**.
-- 🌱 Actively learning **AlgoKit** for blockchain development on **Algorand**.  
-- 🎓 Certified in **Google Analytics**, **IBM Data Analyst**, **Web Development** and **Microsoft Business Analytics**
-- 📫 How to reach me: [Email](mailto:ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar)
+- 🔭 I’m diving into **AI/ML innovation**, crafting tools for smarter decisions and scalable systems.
+- 🌱 Sharpening my edge in **deep learning**, **natural language processing**, and **blockchain frameworks** like Algorand.
+- 🎓 **M.S. in Computer Science** (May 2025) | **B.S. in Computer Science** (2023), Government Arts College, Salem.
+- 🏆 Certified in **Google Data Analytics**, **IBM Data Analyst**, **Cisco Networking**, and **Microsoft Business Analytics**.
+- 📫 Connect with me: [ansarafsar001@gmail.com](mailto:ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar) | [X](https://x.com/ansarafsar)
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, R, Java, JavaScript
-- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Web Development**: HTML, CSS, JavaScript, React  
-- **Blockchain**: Algorand, AlgoKit  
-- **Other Tools**: Git, SQL, Tableau, Power BI
+- **Languages**: Python, JavaScript, SQL
+- **AI/ML**: PyTorch, TensorFlow, Scikit-learn, LangChain, Transformers
+- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Tableau, Power BI
+- **Web Dev**: HTML, CSS, React
+- **Blockchain**: Algorand, AlgoKit
+- **Other**: Git, Docker, AWS Basics
 
 ---
 
 ## 🏆 Notable Projects
-- **Predictive Analysis for Amazon Sales Prediction**  
-   > Developed a model predicting sales trends, helping businesses optimize inventory management.  
-- **Predictive Modeling for Customer Purchase Prediction**  
-   > Used Decision Tree Classifier to enhance customer targeting strategies.  
-- **Sentiment Analysis and Visualization of Social Media Data**  
-   > Created insightful visualizations and sentiment trends for improved marketing efforts.  
-- **Web3 Supply Chain Project** (in progress)  
-   > Building a blockchain-based supply chain solution using **Algorand** testnet.
+- **[**Retail Sales Prediction Dashboard**](https://github.com/AnsarAfsar/Retail-Sales-Prediction-Dashboard)**  
+   A Streamlit-powered ML app forecasting retail trends—Python, Scikit-learn, Pandas.  
+   Impact: Streamlined inventory planning with actionable insights.  
+   [Demo GIF TBD]
+
+- **[**Smart Retail BI Chatbot**](https://github.com/AnsarAfsar/Smart-Retail-BI-Chatbot)**  
+   AI-driven Q&A for retail analytics—LangChain, Streamlit, OpenRouter API.  
+   Impact: Delivered instant insights from complex datasets for business users.  
+
+- **[**Web3 Supply Chain Solution**](https://github.com/AnsarAfsar/Web3-Supply-Chain)**  
+   Blockchain-based logistics tracking on Algorand testnet—AlgoKit, Python.  
+   Impact: Boosted transparency and trust in supply chain workflows.  
+
+- **[**Sentiment Analysis Dashboard**](https://github.com/AnsarAfsar/Sentiment-Analysis-Dashboard)**  
+   Visualized social media trends with NLP—Python, NLTK, Seaborn.  
+   Impact: Empowered marketing teams with sentiment-driven strategies.  
 
 ---
 
-## 🌟 Let's Connect
+## 🌟 Achievements & Contributions
+- 🥇 **Hackathon Finalist** (2024): Led team to top 5 in regional AI Hackathon with a predictive analytics tool.
+- 📝 **Published Blog Posts**: Shared 10+ articles on Medium about AI trends, data visualization, and blockchain use cases.
+- 🤝 **Open Source**: Contributed to Python-based ML libraries—bug fixes and doc updates.
+- 🚀 **Mentorship**: Guided 15+ undergrads in CS projects, focusing on Python and data science basics.
+
+---
+
+## 🌟 Let’s Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ansarafsar)  
 - 💻 [GitHub](https://github.com/AnsarAfsar)  
-
+- 🐦 [X](https://x.com/ansarafsar)  
 
 ---
 
 ## 💬 Fun Facts
-- 🚴 I enjoy cycling and exploring nature trails.  
-- 🎮 Gaming is my way to unwind and think creatively.  
-- 📚 Always up for a good read—be it tech blogs or thrillers!
+- 🚴 Cycling through nature trails keeps my mind sharp and soul stoked.
+- 🎮 I unwind with strategy games—love outsmarting virtual rivals.
+- 📚 Tech blogs, AI papers, or a gritty thriller—I’m always reading something.
 
 ---
  <!--✍️ [Portfolio Website](https://your-portfolio.com) *(optional)*  --!>
