@@ -10,7 +10,7 @@ I’m a Master’s student in Computer Science (Government Arts College, Salem, 
 - 🌱 Sharpening my edge in **deep learning**, **natural language processing**, and **blockchain frameworks** like Algorand.
 - 🎓 **M.S. in Computer Science** (May 2025) | **B.S. in Computer Science** (2023), Government Arts College, Salem.
 - 🏆 Certified in **Google Data Analytics**, **IBM Data Analyst**, **Cisco Networking**, and **Microsoft Business Analytics**.
-- 📫 Connect with me: [ansarafsar001@gmail.com](mailto:ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar) | [X](https://x.com/ansarafsar)
+- 📫 Connect with me: [ansarafsar001@gmail.com](mailto:ansarafsar001@gmail.com) | [LinkedIn](https://linkedin.com/in/ansarafsar)
 
 ---
 
@@ -25,27 +25,26 @@ I’m a Master’s student in Computer Science (Government Arts College, Salem, 
 ---
 
 ## 🏆 Notable Projects
-- **[**Retail Sales Prediction Dashboard**](https://github.com/AnsarAfsar/Retail-Sales-Prediction-Dashboard)**  
+- **[**Retail Sales Prediction Dashboard**]**  
    A Streamlit-powered ML app forecasting retail trends—Python, Scikit-learn, Pandas.  
    Impact: Streamlined inventory planning with actionable insights.  
    [Demo GIF TBD]
 
-- **[**Smart Retail BI Chatbot**](https://github.com/AnsarAfsar/Smart-Retail-BI-Chatbot)**  
+- **[**Smart Retail BI Chatbot**]**  
    AI-driven Q&A for retail analytics—LangChain, Streamlit, OpenRouter API.  
    Impact: Delivered instant insights from complex datasets for business users.  
 
-- **[**Web3 Supply Chain Solution**](https://github.com/AnsarAfsar/Web3-Supply-Chain)**  
+- **[**Web3 Supply Chain Solution**]**  
    Blockchain-based logistics tracking on Algorand testnet—AlgoKit, Python.  
    Impact: Boosted transparency and trust in supply chain workflows.  
 
-- **[**Sentiment Analysis Dashboard**](https://github.com/AnsarAfsar/Sentiment-Analysis-Dashboard)**  
+- **[**Sentiment Analysis Dashboard**]**  
    Visualized social media trends with NLP—Python, NLTK, Seaborn.  
    Impact: Empowered marketing teams with sentiment-driven strategies.  
 
 ---
 
 ## 🌟 Achievements & Contributions
-- 🥇 **Hackathon Finalist** (2024): Led team to top 5 in regional AI Hackathon with a predictive analytics tool.
 - 📝 **Published Blog Posts**: Shared 10+ articles on Medium about AI trends, data visualization, and blockchain use cases.
 - 🤝 **Open Source**: Contributed to Python-based ML libraries—bug fixes and doc updates.
 - 🚀 **Mentorship**: Guided 15+ undergrads in CS projects, focusing on Python and data science basics.
