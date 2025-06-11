@@ -1,7 +1,7 @@
 # Hi there, I'm Ansar Afsar! 👋
 
 🌟 **Welcome to my GitHub profile!**  
-Fresher with Master’s student in Computer Science (Government Arts College, Salem, ‘25), fueled by a passion for AI, machine learning, data analytics, and blockchain. I love building impactful solutions—whether it’s predictive dashboards, AI-driven chatbots, or decentralized systems—that turn complex problems into clear wins. My toolbox? Python, PyTorch, and a knack for making tech work for people.
+Fresher with Master’s in Computer Science (Government Arts College, Salem, ‘25), fueled by a passion for AI, machine learning, data analytics, and blockchain. I love building impactful solutions—whether it’s predictive dashboards, AI-driven chatbots, or decentralized systems—that turn complex problems into clear wins. My toolbox? Python, PyTorch, and a knack for making tech work for people.
 
 ---
 
