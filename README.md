@@ -17,7 +17,8 @@
   - Google Data Analytics  
   - IBM Data Analyst  
   - Cisco Networking  
-  - Microsoft Business Analytics  
+  - Microsoft Business Analytics
+    
 - 📫 **Connect**:
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansar-afsar/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ansar_afsar_)
