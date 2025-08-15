@@ -19,7 +19,7 @@
   - Cisco Networking  
   - Microsoft Business Analytics
     
-- 📫 **Connect**:
+## 📫 Connect:
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansar-afsar/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ansar_afsar_)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansarafsar)
