@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-- 🔭 **Current Focus**: Developing AI/ML pipelines for content moderation and personalization, with a focus on privacy and scalability.  
+- 🔭 **Current Focus**: Actively seeking roles in Developing AI/ML pipelines for content moderation and personalization, with a focus on privacy and scalability and anything to break & build, quick prototyping 10 things a day, satisfying the growth hunger of mine.
 - 🌱 **Learning Edge**: Deepening expertise in NLP (transformers, embeddings), MLOps, and AWS cloud orchestration.  
 - 🎓 **Education**:  
   - M.S. Computer Science (2025)  
