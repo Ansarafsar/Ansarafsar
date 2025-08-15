@@ -127,9 +127,11 @@ The hate speech pipeline showcases:
 
 ## 🌍 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ansar-afsar/)  
-- 💻 [GitHub](https://github.com/)  
-- 🐦 [X (Twitter)](https://x.com/)  
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+</p>
 
 ---
 
