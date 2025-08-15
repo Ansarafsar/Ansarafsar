@@ -18,10 +18,11 @@
   - IBM Data Analyst  
   - Cisco Networking  
   - Microsoft Business Analytics  
-- 📫 **Connect**:  
-  - 📧 ansarafsar001@gmail.com  
-  - [LinkedIn](https://www.linkedin.com/)  
-  - [X (Twitter)](https://x.com/ansar_afsar_)
+- 📫 **Connect**:
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansar-afsar/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ansar_afsar_)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansarafsar)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansarafsar001@gmail.com)
 
 ---
 
@@ -126,18 +127,6 @@ The hate speech pipeline showcases:
 - **Scalability**: Modular microservices for easy scaling on AWS  
 - **Efficiency**: GPU-accelerated inference (<0.8s) for real-time apps  
 - **Impact**: Safer digital platforms through robust moderation and curation
-
----
-
-## 🌍 Let’s Connect
-
-<a href="https://www.linkedin.com/in/ansar-afsar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/yourhandle](https://x.com/ansar_afsar_">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
-</a>
-
 
 ---
 
