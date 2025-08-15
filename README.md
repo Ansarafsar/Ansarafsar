@@ -21,7 +21,7 @@
 - 📫 **Connect**:  
   - 📧 ansarafsar001@gmail.com  
   - [LinkedIn](https://www.linkedin.com/)  
-  - [X (Twitter)](https://x.com/)
+  - [X (Twitter)](https://x.com/ansar_afsar_)
 
 ---
 
