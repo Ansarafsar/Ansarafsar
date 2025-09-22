@@ -1,6 +1,6 @@
 # 🚀 Ansar Afsar | AI Innovator & Data/ML Player 🌌
 
-👋 Hey there! I'm **Ansar Afsar**, a Master’s in Computer Science grad (Government Arts College, Salem, 2025, 8.01 GPA) driven by a passion for building AI-driven, privacy-first solutions. From multilingual NLP pipelines to scalable cloud deployments, I craft tools that solve real-world problems with precision and impact.  
+👋 Hey there! I'm **Ansar Afsar**, a Master’s in Computer Science grad (Government Arts College, Salem, 2025, 8.44 GPA) driven by a passion for building AI-driven, privacy-first solutions. From multilingual NLP pipelines to scalable cloud deployments, I craft tools that solve real-world problems with precision and impact.  
 **My mantra?** Turn complex data into actionable insights using Python, PyTorch, and a sprinkle of DevOps magic.
 
 ---
