@@ -1,161 +1,263 @@
-# 🚀 Ansar Afsar | AI Innovator & Data/ML Player 🌌
+# Ansar Afsar
 
-👋 Hey there! I'm **Ansar Afsar**, a Master’s in Computer Science grad (Government Arts College, Salem, 2025, 8.44 GPA) driven by a passion for building AI-driven, privacy-first solutions. From multilingual NLP pipelines to scalable cloud deployments, I craft tools that solve real-world problems with precision and impact.  
-**My mantra?** Turn complex data into actionable insights using Python, PyTorch, and a sprinkle of DevOps magic.
+> Building AI systems, agents, and workflows designed for real operations.
 
----
+AI systems engineer focused on deployable AI workflows, automation, and production-ready infrastructure for businesses that still run on messy processes and operational bottlenecks.
 
-## 🌟 About Me
-
-- 🔭 **Current Focus**: Actively seeking roles in developing AI/ML pipelines for content moderation and personalization, emphasizing privacy and scalability. I’m passionate about rapid prototyping—building and breaking things quickly, creating 10 projects a day to satisfy my hunger for growth.
-- 🌱 **Learning Edge**: Deepening expertise in NLP (transformers, embeddings), MLOps, and AWS cloud orchestration.  
-- 🎓 **Education**:  
-  - M.S. Computer Science (2025)  
-  - B.S. Computer Science (2023)  
-  - Government Arts College, Salem  
-- 🏆 **Certifications**:  
-  - Google Data Analytics  
-  - IBM Data Analyst  
-  - Cisco Networking  
-  - Microsoft Business Analytics
-
-## Portfolio:
-   https://ansarafsar.github.io/portfolio/
-## 📫 Let's Connect:
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansar-afsar/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ansar_afsar_)
+Currently working as a Junior AI Developer at Webdura Technologies, building AI-backed marketing systems, automation workflows, and agent assistants for traditional industries.
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+I work at the seam between:
 
-### AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
+- AI systems
+- workflow automation
+- product thinking
+- infrastructure
+- operational scalability
 
-### Cloud & DevOps
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)
+My focus is not just building models — but building systems that survive production:
+- multilingual inputs
+- latency constraints
+- deployment realities
+- workflow integration
+- operational scale
 
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Roboflow](https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white)
+I’ve worked across:
+- NLP
+- AI agents
+- retrieval systems
+- forecasting
+- computer vision
+- business intelligence
+- cloud-native AI deployments
 
-### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Web Dev
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)
-
-### Blockchain
-![AlgoKit](https://img.shields.io/badge/AlgoKit-FF6F61?style=for-the-badge&logo=algorand&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+and I care deeply about AI that actually fits into how businesses operate.
 
 ---
 
-## 🏆 Notable Projects
+## Current Focus
 
-### 🚨 Multilingual Hate Speech Detection Pipeline
-A GPU-accelerated microservices pipeline for real-time content moderation on professional platforms.  
-
-**Processes JSON inputs** (e.g., `"Ami kal party te jabo"`) with:
-- **Translation**: `easynmt` (m2m_100_418M) for non-English to English
-- **Hate Speech Detection**: Ensemble (fasttext, MuRIL, IndicBERT, XLMR, DistilBERT) with rule-based boosts; flags >0.7 scores
-- **Tagging**: `intfloat/e5-large-v2` embeddings for personalized curation
-
-**Tech**: Docker, PyTorch 2.1.2, AWS EC2 `g4dn.xlarge` (NVIDIA T4, CUDA 12.8), Nginx proxy  
-**Impact**: Sub-0.8s inference, fault-tolerant with backup models, logs to `flagged_hate_speech.jsonl` for retraining  
-**Privacy**: Self-hosted to bypass external APIs like GPT, ensuring data security  
+- AI agents & orchestration
+- Retrieval-Augmented Generation (RAG)
+- AI workflow automation
+- Production AI infrastructure
+- MLOps & cloud deployment
+- Business-facing AI systems
+- Rapid AI prototyping & experimentation
 
 ---
 
-### 📈 Retail Sales Prediction Dashboard
-A **Streamlit** app forecasting retail trends using **Scikit-learn** and **Pandas**.  
-**Impact**: Optimized inventory planning with predictive analytics.  
-**Demo**: *[GIF TBD]*
+## Experience
+
+### Junior AI Developer — Webdura Technologies
+**2026 → Present**
+
+Building AI-backed marketing products and AI agent assistants for traditional businesses.
+
+- Designing AI-assisted operational workflows
+- Working closely with product ideation and business pain points
+- Building scalable automation systems around AI primitives
+- Rapid R&D on deployable AI workflows
 
 ---
 
-### 💬 Smart Retail BI Chatbot
-AI-driven Q&A for retail analytics using **LangChain** and **Streamlit**.  
-**Impact**: Instant insights from complex datasets for business users.
+### AI/ML Developer — Teamup Consultants
+**2025**
+
+Built AI workflows and scalable cloud-native systems for recruitment operations across Gulf & Middle East markets.
+
+- Generative AI workflows
+- Authentication-integrated AI systems
+- Rapid AI prototyping pipelines
 
 ---
 
-### 🔗 Web3 Supply Chain Solution
-Blockchain-based logistics tracking on **Algorand testnet** with **AlgoKit**.  
-**Impact**: Enhanced transparency in supply chain workflows.
+### AI Module Lead — Tienext Corporation
+**2025**
+
+Owned NLP moderation infrastructure deployed on AWS.
+
+- Multilingual hate-speech detection
+- Real-time moderation pipelines
+- Dockerized inference systems
+- Production-scale deployment workflows
 
 ---
 
-### 📊 Sentiment Analysis Dashboard
-NLP-driven social media trend visualization using **NLTK** and **Seaborn**.  
-**Impact**: Empowered marketing teams with sentiment insights.
+### AI Developer — Zeex AI
+**2025**
+
+Worked on computer vision systems across:
+- theft detection
+- traffic analysis
+- satellite imagery
+
+Built few-shot learning pipelines using Vision Transformer backbones.
 
 ---
 
-## 🌟 Achievements
+### Team Manager · Content / Data — Bookdio
+**2024 → 2025**
 
-- 💼 **Internships**: Contributed to AI/ML projects at ZEEX AI, Tienext, BOOKDIO, and Unified Mentor (2024–2025)  
-- 🛠️ **Open Source**: Fixed bugs and improved docs for Python ML libraries  
-- 👨‍🏫 **Mentorship**: Guided 15+ undergrads in CS projects, focusing on AI and data science  
-- ✍️ **Blogging**: Published 10+ Medium articles on AI trends, NLP, and cloud computing  
+Led AI-assisted content optimization workflows.
 
----
-
-## 💡 Why This Matters
-
-My work focuses on **privacy-first AI**, leveraging **self-hosted models** to avoid data leaks (unlike GPT-based APIs).  
-The hate speech pipeline showcases:
-
-- **Scalability**: Modular microservices for easy scaling on AWS  
-- **Efficiency**: GPU-accelerated inference (<0.8s) for real-time apps  
-- **Impact**: Safer digital platforms through robust moderation and curation
+- Scaled organic impressions from **2.43K → 477K**
+- Built analytics-driven operational processes
+- Managed AI-assisted content systems
 
 ---
 
-## 🎮 Fun Facts
+# Tech Stack
 
-- 🚴 Cycling trails keep my code sharp and spirit high  
-- 🎲 Strategy games are my jam—love outsmarting AI opponents  
-- 📚 Always reading: AI papers, tech blogs, or a thrilling sci-fi novel  
+## AI / ML
+- LLMs
+- RAG systems
+- AI agents
+- NLP
+- Vision Transformers
+- Forecasting
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- LangChain
+
+## Data & BI
+- SQL
+- Pandas
+- Power BI
+- Streamlit
+- Analytics dashboards
+
+## Infrastructure
+- AWS
+- Docker
+- Nginx
+- GitHub Actions
+- Lambda
+- IAM
+- CI/CD workflows
+
+## Backend
+- Python
+- Flask
+- REST APIs
+- Webhooks
+- Authentication systems
+
+## Other
+- CUDA
+- OpenCV
+- YOLO
+- Algorand / AlgoKit
+- Git
 
 ---
 
-⭐ **Star my repos if you find them inspiring! Let’s build the future of AI together!**
+# Selected Case Studies
 
-✍️ [Portfolio Website](https://ansarafsar.github.io/portfolio/)
+## Real-time Multilingual Moderation Pipeline
 
-<!--
-**Ansarafsar/Ansarafsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Production-ready moderation system for multilingual toxicity and hate-speech detection.
 
-Here are some ideas to get you started:
+### Stack
+- PyTorch
+- Docker
+- AWS
+- NLTK
+- Ensemble NLP models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+- Real-time inference pipeline
+- Multilingual handling
+- Fault-tolerant architecture
+- Self-hosted inference stack
+- Retraining-ready logging workflows
+- Privacy-first deployment approach
+
+---
+
+## Natural Language Retail BI Assistant
+
+Built a business intelligence assistant allowing retail operators to query warehouse data in natural language.
+
+### Stack
+- Mistral-7B
+- Flask
+- SQL
+- AWS
+
+### Highlights
+- Low-latency business querying
+- RAG-assisted retrieval
+- Analyst-free operational insights
+
+---
+
+## Forecasting Retail Revenue
+
+Decision-support forecasting system for retail operations.
+
+### Stack
+- TensorFlow
+- LSTM
+- Streamlit
+- Scikit-learn
+
+### Highlights
+- Seasonality-aware forecasting
+- Interactive dashboarding
+- Backtesting workflows
+
+---
+
+## Few-shot Vision Pipeline
+
+Generalized computer vision pipeline for low-data domains.
+
+### Stack
+- PyTorch
+- Vision Transformers
+- Few-shot learning
+
+### Highlights
+- Satellite imagery
+- Retail vision systems
+- Low-label adaptation workflows
+
+---
+
+# Philosophy
+
+I’m interested in AI systems that:
+- survive production
+- fit operational realities
+- automate real workflows
+- reduce friction inside businesses
+- create leverage through infrastructure and intelligence
+
+Benchmarks are useful.
+
+Operational reliability matters more.
+
+---
+
+# Connect
+
+### Portfolio
+🌐 https://ansarafsar.github.io/portfolio/
+
+### LinkedIn
+💼 https://www.linkedin.com/in/ansar-afsar/
+
+### GitHub
+🐙 https://github.com/Ansarafsar
+
+### X / Twitter
+𝕏 https://x.com/ansar_afsar_
+
+---
+
+> Engineer by role. Systems thinker by instinct.
