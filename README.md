@@ -1,272 +1,298 @@
-# 🚀 Ansar Afsar
+<div align="center">
 
-> Building AI systems, agents, and workflows designed for real operations.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ansar%20Afsar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%94%20Building%20AI%20That%20Survives%20Production&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-👨‍💻 AI systems engineer focused on deployable AI workflows, automation, and production-ready infrastructure for businesses that still run on messy processes and operational bottlenecks.
+<br/>
 
-⚡ Currently working as a Junior AI Developer at Webdura Technologies, building AI-backed marketing systems, automation workflows, and agent assistants for traditional industries.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Systems+%26+Agents+Engineer;RAG+%7C+LLM+Orchestration+%7C+MLOps;Production+AI+for+Real+Operations;From+prototype+%E2%86%92+deployment+%E2%86%92+scale)](https://git.io/typing-svg)
 
----
+<br/>
 
-# 🌌 About Me
-
-I work at the seam between:
-
-- 🤖 AI systems
-- ⚙️ workflow automation
-- 🧠 product thinking
-- ☁️ infrastructure
-- 📈 operational scalability
-
-My focus is not just building models — but building systems that survive production:
-
-- 🌍 multilingual inputs
-- ⚡ latency constraints
-- 🚢 deployment realities
-- 🔄 workflow integration
-- 📊 operational scale
-
-I’ve worked across:
-- 🗣️ NLP
-- 🤖 AI agents
-- 🔎 retrieval systems
-- 📈 forecasting
-- 👁️ computer vision
-- 📊 business intelligence
-- ☁️ cloud-native AI deployments
-
-…and I care deeply about AI that actually fits into how businesses operate.
-
----
-
-# 🔭 Current Focus
-
-- 🤖 AI agents & orchestration
-- 🔎 Retrieval-Augmented Generation (RAG)
-- ⚡ AI workflow automation
-- ☁️ Production AI infrastructure
-- 🛠️ MLOps & cloud deployment
-- 🏢 Business-facing AI systems
-- 🚀 Rapid AI prototyping & experimentation
-
----
-
-# 🌐 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ansarafsar.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=A78BFA&labelColor=0f0c29)](https://ansarafsar.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansar-afsar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansarafsar)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ansar_afsar_)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ansarafsar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+
+</div>
+
 ---
 
-# 💼 Experience
+<div align="center">
 
-## 🧠 Junior AI Developer — Webdura Technologies
-📅 2026 → Present
+## `> whoami`
+
+</div>
+
+```yaml
+name       : Ansar Afsar
+role       : AI Systems Engineer & Junior AI Developer @ Webdura Technologies
+location   : India 🇮🇳
+focus      : AI Agents · RAG · Workflow Automation · Production AI Infrastructure
+philosophy : Benchmarks are useful. Operational reliability matters more.
+status     : 🟢 Building AI that survives production
+```
+
+---
+
+<div align="center">
+
+## 🧠 What I Actually Do
+
+</div>
+
+> I work at the seam between **AI systems**, **workflow automation**, **product thinking**, and **infrastructure** — building systems that don't just demo well but *run reliably* at operational scale.
+
+**My systems handle:**
+
+🌍 Multilingual inputs &nbsp;|&nbsp; ⚡ Latency constraints &nbsp;|&nbsp; 🚢 Deployment realities &nbsp;|&nbsp; 🔄 Workflow integration &nbsp;|&nbsp; 📊 Operational scale
+
+---
+
+<div align="center">
+
+## 🔭 Current Focus
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-AI%20Agents-7c3aed?style=flat-square&logoColor=white" /><br/>
+🤖<br/><sub>Orchestration & Multi-Agent Systems</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-RAG%20Systems-0ea5e9?style=flat-square&logoColor=white" /><br/>
+🔎<br/><sub>Retrieval-Augmented Generation</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-AI%20Automation-10b981?style=flat-square&logoColor=white" /><br/>
+⚡<br/><sub>Workflow Automation Pipelines</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-MLOps-f59e0b?style=flat-square&logoColor=white" /><br/>
+🛠️<br/><sub>Cloud Deployment & Infra</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💼 Experience
+
+</div>
+
+<details open>
+<summary><b>🧠 Junior AI Developer — Webdura Technologies &nbsp;|&nbsp; 2026 → Present</b></summary>
+
+<br/>
 
 Building AI-backed marketing products and AI agent assistants for traditional businesses.
 
-### Highlights
-- ⚙️ Designing AI-assisted operational workflows
-- 🧩 Working closely with product ideation and business pain points
+- ⚙️ Designing AI-assisted operational workflows from scratch
+- 🧩 Working closely across product ideation and real business pain points
 - 📈 Building scalable automation systems around AI primitives
 - 🚀 Rapid R&D on deployable AI workflows
 
----
+</details>
 
-## 🤖 AI/ML Developer — Teamup Consultants
-📅 2025
+<details>
+<summary><b>🤖 AI/ML Developer — Teamup Consultants &nbsp;|&nbsp; 2025</b></summary>
 
-Built AI workflows and scalable cloud-native systems for recruitment operations across Gulf & Middle East markets.
+<br/>
 
-### Highlights
-- 🧠 Generative AI workflows
+Built AI workflows and cloud-native systems for recruitment ops across Gulf & Middle East markets.
+
+- 🧠 Generative AI workflows for hiring pipelines
 - 🔐 Authentication-integrated AI systems
-- ⚡ Rapid AI prototyping pipelines
+- ⚡ Rapid AI prototyping infrastructure
 
----
+</details>
 
-## 🛡️ AI Module Lead — Tienext Corporation
-📅 2025
+<details>
+<summary><b>🛡️ AI Module Lead — Tienext Corporation &nbsp;|&nbsp; 2025</b></summary>
 
-Owned NLP moderation infrastructure deployed on AWS.
+<br/>
 
-### Highlights
-- 🌍 Multilingual hate-speech detection
+Owned NLP moderation infrastructure deployed at production scale on AWS.
+
+- 🌍 Multilingual hate-speech & toxicity detection
 - ⚡ Real-time moderation pipelines
-- 🐳 Dockerized inference systems
+- 🐳 Dockerized self-hosted inference systems
 - ☁️ Production-scale deployment workflows
 
----
+</details>
 
-## 👁️ AI Developer — Zeex AI
-📅 2025
+<details>
+<summary><b>👁️ AI Developer — Zeex AI &nbsp;|&nbsp; 2025</b></summary>
 
-Worked on computer vision systems across:
-- 🚨 theft detection
-- 🚦 traffic analysis
-- 🛰️ satellite imagery
+<br/>
 
-Built few-shot learning pipelines using Vision Transformer backbones.
+Built computer vision systems across surveillance and analytical domains.
 
----
+- 🚨 Theft detection · 🚦 Traffic analysis · 🛰️ Satellite imagery processing
+- 🏗️ Few-shot learning pipelines using Vision Transformer backbones
 
-## 📊 Team Manager · Content / Data — Bookdio
-📅 2024 → 2025
+</details>
 
-Led AI-assisted content optimization workflows.
+<details>
+<summary><b>📊 Team Manager, Content/Data — Bookdio &nbsp;|&nbsp; 2024 → 2025</b></summary>
 
-### Highlights
-- 📈 Scaled organic impressions from **2.43K → 477K**
+<br/>
+
+Led AI-assisted content optimization and analytics operations.
+
+- 📈 Scaled organic impressions: **2.43K → 477K** 🚀
 - 🧠 Built analytics-driven operational processes
-- 🤝 Managed AI-assisted content systems
+- 🤝 Managed AI-assisted content systems at scale
+
+</details>
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
 
-## 🤖 AI / ML
+## 🛠️ Tech Stack
+
+</div>
+
+### 🤖 AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
+### ☁️ Infrastructure & DevOps
 
-## ☁️ Infrastructure & DevOps
-
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+### 📊 Data & BI
 
-## 📊 Data & BI
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-
-## 👁️ Computer Vision
+### 👁️ Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
-
-## 🔧 Backend & APIs
+### 🔧 Backend & APIs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+<div align="center">
+
+## 📊 GitHub Stats
+
+<!-- Streak Stats — most reliable -->
+<img src="https://streak-stats.demolab.com/?user=Ansarafsar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
+
+<br/>
+
+<!-- Activity Graph — always works, looks great -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ansarafsar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f59e0b)](https://github.com/Ansarafsar)
+
+<br/>
+
+<!-- Profile Summary Cards — reliable alternative to stats cards -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansarafsar&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansarafsar&theme=tokyonight"/>
+
+</div>
 
 ---
 
-# 📚 Selected Case Studies
+<div align="center">
 
-## 🛡️ Real-time Multilingual Moderation Pipeline
+## 🚀 What I'm Building
 
-Production-ready moderation system for multilingual toxicity and hate-speech detection.
+</div>
 
-### ⚙️ Stack
-- 🔥 PyTorch
-- 🐳 Docker
-- ☁️ AWS
-- 📚 NLTK
-- 🧠 Ensemble NLP models
+> Current technical bets and directions I'm going deep on:
 
-### 🚀 Highlights
-- ⚡ Real-time inference pipeline
-- 🌍 Multilingual handling
-- 🛡️ Fault-tolerant architecture
-- 🏠 Self-hosted inference stack
-- 📝 Retraining-ready logging workflows
-- 🔒 Privacy-first deployment approach
+| Area | What I'm Exploring |
+|------|-------------------|
+| 🤖 **Agent Orchestration** | Multi-agent systems, tool use, memory layers, self-correcting pipelines |
+| 🔎 **RAG & Retrieval** | Hybrid search, re-ranking, structured + unstructured data retrieval |
+| ⚡ **AI Workflow Automation** | n8n, LangGraph, event-driven AI pipelines for business ops |
+| 🏢 **Business-Facing AI** | AI systems for industries that still run on manual processes |
+| ☁️ **Production Infra** | Dockerized inference, self-hosted LLMs, latency optimization |
 
 ---
 
-## 💬 Natural Language Retail BI Assistant
+<div align="center">
 
-Built a business intelligence assistant allowing retail operators to query warehouse data in natural language.
+## 💡 Philosophy
 
-### ⚙️ Stack
-- 🧠 Mistral-7B
-- 🌶️ Flask
-- 🗄️ SQL
-- ☁️ AWS
+</div>
 
-### 🚀 Highlights
-- ⚡ Low-latency business querying
-- 🔎 RAG-assisted retrieval
-- 📈 Analyst-free operational insights
+<div align="center">
 
----
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   AI systems that survive production.                             │
+│   AI that fits how businesses actually operate.                   │
+│   AI that automates real workflows, not toy demos.                │
+│   Infrastructure that creates leverage at scale.                  │
+│                                                                   │
+│   Benchmarks are useful.                                          │
+│   Operational reliability matters more.                           │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-## 📈 Forecasting Retail Revenue
-
-Decision-support forecasting system for retail operations.
-
-### ⚙️ Stack
-- 🧮 TensorFlow
-- 📈 LSTM
-- 🎛️ Streamlit
-- 📚 Scikit-learn
-
-### 🚀 Highlights
-- 📊 Seasonality-aware forecasting
-- 📈 Interactive dashboarding
-- 🧪 Backtesting workflows
+</div>
 
 ---
 
-## 👁️ Few-shot Vision Pipeline
+<div align="center">
 
-Generalized computer vision pipeline for low-data domains.
+## ⚡ Fun Facts
 
-### ⚙️ Stack
-- 🔥 PyTorch
-- 👁️ Vision Transformers
-- 🎯 Few-shot learning
+</div>
 
-### 🚀 Highlights
-- 🛰️ Satellite imagery
-- 🏪 Retail vision systems
-- ⚡ Low-label adaptation workflows
+<div align="center">
 
----
+🚴 **Cycling** clears my head better than debugging &nbsp;&nbsp;|&nbsp;&nbsp; 🎮 **Strategy games** are my favorite way to think through systems
 
-# 💡 Philosophy
+📚 Usually reading **AI papers**, infra blogs, or startup/operator essays &nbsp;&nbsp;|&nbsp;&nbsp; ☕ Most ideas start from **overthinking workflows** that could be automated
 
-I’m interested in AI systems that:
-
-- ⚡ survive production
-- 🏢 fit operational realities
-- 🤖 automate real workflows
-- 🔄 reduce friction inside businesses
-- 📈 create leverage through infrastructure and intelligence
-
-Benchmarks are useful.
-
-Operational reliability matters more.
+</div>
 
 ---
 
-# ⚡ Fun Facts
+<div align="center">
 
-- 🚴 Cycling clears my head better than debugging
-- 🎮 Strategy games are my favorite way to think through systems
-- 📚 Usually reading AI papers, infra blogs, or startup/operator essays
-- ☕ Most ideas start from overthinking workflows that could be automated
+### 🤝 Let's connect and build something that actually works in production.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=A78BFA)](https://ansarafsar.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansar-afsar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansarafsar)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ansar_afsar_)
 
-> 👨‍💻 Engineer by role. Systems thinker by instinct.
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
